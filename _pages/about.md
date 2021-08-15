@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-WANG Jinghua is currently a Research Assistant Professor at [Research Institute for Future Media Computing](http://futuremedia.szu.edu.cn/index.aspx), Shenzhen University. Dr. Wang received his B.S. degree from Shandong University, his M.S. degree from Harbin Institute of Technology, and his Ph.D. degree from The Hong Kong Polytechnic University. From 2014 to 2016, he was a research fellow at ROSE Lab, Nanyang Technological University, Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd. He published at prestigious journals and prominent conference, such as IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Image Processing (TIP), IEEE International Conference on Computer Vision (ICCV), and European Conference on Computer Vision (ECCV). His research interests include domain adaptation, zero-shot learning, unsupervised learning, computer vision, and pattern recognition.
+WANG Jinghua is currently a Research Assistant Professor at [Research Institute for Future Media Computing](http://futuremedia.szu.edu.cn/index.aspx), Shenzhen University. He received his B.S. degree from [Shandong University](https://www.cs.sdu.edu.cn/), his M.S. degree from [Harbin Institute of Technology (Shenzhen)](http://cs.hitsz.edu.cn/), and his Ph.D. degree from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). From 2014 to 2016, he was a research fellow at ROSE Lab, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd.
+
+Dr. Wang published at prestigious journals and prominent conference, such as IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Image Processing (TIP), IEEE International Conference on Computer Vision (ICCV), and European Conference on Computer Vision (ECCV). His research interests include domain adaptation, zero-shot learning, unsupervised learning, computer vision, and pattern recognition.
 
 A data-driven personal website
 ======
