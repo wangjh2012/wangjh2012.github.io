@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2021
 
-* Wang J. and Jiang J., "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021. (JCR Q1, 中科院一区, IF: 16.389, 人工智能大类排名第一)
+* Wang J. and Jiang J., "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021. (JCR Q1, 中科院一区, IF: 16.389, 人工智能大类排名第一)
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
