@@ -4,9 +4,9 @@ title: "Publications"
 author_profile: true
 ---
 
-## Locations of key files/directories
+## 2021
 
-* Basic config options: _config.yml
+* Wang J. and Jiang J., "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021. (JCR Q1, 中科院一区, IF: 16.389, 人工智能大类排名第一)
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
@@ -19,7 +19,7 @@ author_profile: true
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+## 2020
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
