@@ -4,29 +4,41 @@ title: "Publications"
 author_profile: true
 ---
 
-## 2021
+## Journal
 
-* Wang J. and Jiang J., "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021. (JCR Q1, 中科院一区, IF: 16.389, 人工智能大类排名第一)
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021.
+* Jinghua Wang, Mingming Cheng, and Jianmin Jiang, “Domain Shift Preserving for Zero-shot Domain Adpatation”, IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 5505-5517, 2021
+* Jinghua Wang and Gang Wang, "Hierarchical Spatial Sum–Product Networks for Action Recognition in Still Images," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 28, no. 1, pp. 90-100, 2018.
+* Jinghua Wang and Jianmin Jiang, "SA-Net: A deep spectral analysis network for image clustering," **Neurocomputing**, vol. 383, pp. 10-23, 2020.
+* Jinghua Wang and Jianmin Jiang, "Unsupervised deep clustering via adaptive GMM modeling and optimization," **Neurocomputing**, vol. 433, pp. 199-211, 2021.
+* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Extract minimum positive and maximum negative features for imbalanced binary classification," **Pattern Recognition**, 45(3): 1136-1145, 2012.
+* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Orthogonal discriminant vector for face recognition across pose," **Pattern Recognition**, 45(12): 4069-4079, 2012.
+* Jinghua Wang, Qin Li, Jane You, Qijun Zhao, "Fast kernel Fisher discriminant analysis via approximating the kernel principal component analysis," **Neurocomputing**, 74(17): 3313-3322, 2011.
+* Jinghua Wang, Yong Xu, David Zhang, Jane You, "An efficient method for computing orthogonal discriminant vectors," **Neurocomputing**, 73(10-12): 2168-2176, 2010.
+#* Jinghua Wang, Exploring Category Attention for Open Set Domain Adaptation. IEEE Access 9: 9154-9162 (2021)
+* Jinghua Wang, Peng Wang, Qin Li, Jane You, "Improvement of the kernel minimum squared error model for fast feature extraction," **Neural Comput. Appl.**, 23(1): 53-59, 2013.
+* Zizhu Fan, Jinghua Wang, Baogen Xu, Pengzhi Tang, "An efficient KPCA algorithm based on feature correlation evaluation," **Neural Comput. Appl.**, 24(7-8): 1795-1806, 2014.
+* Zizhu Fan, Jinghua Wang, Qi Zhu, Xiaozhao Fang, Jinrong Cui, Chunhua Li, "Local minimum squared error for face and handwritten character recognition," **J. Electronic Imaging**, 22(3): 033027, 2013.
+* Yong Xu, Qi Zhu, Jinghua Wang, "Breast cancer diagnosis based on a kernel orthogonal transform," **Neural Comput. Appl.**, 21(8): 1865-1870, 2012.
+* Jane You, Qin Li, Jinghua Wang, "On Hierarchical Content-Based Image Retrieval by Dynamic Indexing and Guided Search," **Int. J. Cogn. Informatics Nat. Intell.**, 4(4): 18-36, 2010.
 
-## 2020
+## Conference
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* Jinghua Wang and Jianmin Jiang, "Conditional Coupled Generative Adversarial Networks for Zero-Shot Domain Adaptation," 2019 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2019, pp. 3374-3383.
+* Jinghua Wang and Jianmin Jiang, "Adversarial Learning for Zero-Shot Domain Adaptation," European Conference on Computer Vision (**ECCV**), 2020, pp. 329-344.
+* Jinghua Wang, Zhenhua Wang, Dacheng Tao, Simon See, Gang Wang, "Learning Common and Specific Features for RGB-D Semantic Segmentation with Deconvolutional Networks," European Conference on Computer Vision (**ECCV**), 2016, pp. 664-679.
+* Jinghua Wang, Adrian Hilton, Jianmin Jiang, "Spectral analysis network for deep representation learning and image clustering," International Conference on Multimedia and Expo (**ICME**), 2019, pp. 1540-1545.
+* Jinghua Wang, Jianmin Jiang, "An Unsupervised Deep Learning Framework via Integrated Optimization of Representation Learning and GMM-Based Modeling," 14th Asian Conference on Computer Vision (**ACCV**), 2018, pp. 249-265.
+* Jinghua Wang, Yong Xu, Jane You, "Sparse residue for occluded face image reconstruction and classification," Proceedings of the 21st International Conference on Pattern Recognition (**ICPR**), 2012, pp. 1707-1710.
+* Jinghua Wang, Qin Li, Jane You, "Compute Orthogonal Discriminant Vectors Efficiently for Dimension Reduction," Proceedings of the 2010 International Conference on Image Processing, Computer Vision, and Pattern Recognition (**IPCV**), 2010, pp. 760-764.
+* Jinghua Wang, a novel solution scheme for the kernel MSE model,” International Conference on Artificial Intelligence and Computational Intelligence (**ICAICI**), Shanghai, 2009, pp. 375–378.
+* Jinghua Wang, Binglei Xie, Jiajie Xu, Haifen Chen, “a fast KPCA-based nonlinear feature extraction method,” Asia-Pacific Conference on Computational Intelligence and Industrial Applications (**PACIIA**), Wuhan, 2009, vol. 2, pp. 232 – 235.
+* Longchun Mao, Jinghua Wang, Jianmin Jiang, "Computerized Logo Synthesis with Wavelets-Enhanced Adversarial Learning," IEEE International Symposium on Circuits and Systems (**ISCAS**), 2020, pp. 1-5.
+* Qi Zhu, Yong Xu, Jinghua Wang, Zizhu Fan, "Kernel based sparse representation for face recognition," Proceedings of the 21st International Conference on Pattern Recognition (**ICPR**), 2012, pp. 1703-1706.
+* Zhenhua Guo, Qin Li, Lin Zhang, Jane You, Wenhuang Liu, Jinghua Wang, "Texture Image Classification Using Complex Texton," Advanced Intelligent Computing Theories and Applications. With Aspects of Artificial Intelligence-7th International Conference (**ICIC**), 2011, pp. 98-104.
+* Qin Li, Jane You, Jinghua Wang, Allan Wong, “A fully automated system for retinal vessel tortuosity diagnosis using scale dependent vessel tracing and grading,” IEEE 23rd International Symposium on Computer-Based Medical Systems (**CBMS**), Perth, Australia, 12-15 October, 2010, pp. 221 – 225.
+* Qin Li, Jinghua Wang, Jane You, Bob Zhang, Fakhri Karray, “Refractive Error Detection via Group Sparse Representation,” International Conference on Autonomous and Intelligent Systems (**AIS**), Povoa de Varzim, Portugal, 2010, pp. 1-5.
+
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
