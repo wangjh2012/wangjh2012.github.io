@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="http://futuremedia.szu.edu.cn/index.aspx" style="color: Blue; text-decoration: underline;">custom link</a>
+<a href="http://futuremedia.szu.edu.cn/index.aspx" style="color: Blue; text-decoration: underline;">Research Institute for Future Media Computing</a>
 
 
 WANG Jinghua is currently a Research Assistant Professor at [Research Institute for Future Media Computing](http://futuremedia.szu.edu.cn/index.aspx), Shenzhen University. He received his B.S. degree from [Shandong University](https://www.cs.sdu.edu.cn/), his M.S. degree from [Harbin Institute of Technology (Shenzhen)](http://cs.hitsz.edu.cn/), and his Ph.D. degree from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). From 2014 to 2016, he was a research fellow at ROSE Lab, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd.
