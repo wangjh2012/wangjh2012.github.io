@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal
 
-* Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2021.
+* Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=CornflowerBlue>我是蓝色</font>**TPAMI**), 2021.
 * Jinghua Wang, Mingming Cheng, and Jianmin Jiang, “Domain Shift Preserving for Zero-shot Domain Adpatation”, IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 5505-5517, 2021
 * Jinghua Wang and Gang Wang, "Hierarchical Spatial Sum–Product Networks for Action Recognition in Still Images," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 28, no. 1, pp. 90-100, 2018.
 * Jinghua Wang and Jianmin Jiang, "SA-Net: A deep spectral analysis network for image clustering," **Neurocomputing**, vol. 383, pp. 10-23, 2020.
