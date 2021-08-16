@@ -6,21 +6,21 @@ author_profile: true
 
 ## Journal
 
-* Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=CornflowerBlue>我是蓝色</font>**TPAMI**), 2021.
-* Jinghua Wang, Mingming Cheng, and Jianmin Jiang, “Domain Shift Preserving for Zero-shot Domain Adpatation”, IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 5505-5517, 2021
-* Jinghua Wang and Gang Wang, "Hierarchical Spatial Sum–Product Networks for Action Recognition in Still Images," IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol. 28, no. 1, pp. 90-100, 2018.
-* Jinghua Wang and Jianmin Jiang, "SA-Net: A deep spectral analysis network for image clustering," **Neurocomputing**, vol. 383, pp. 10-23, 2020.
-* Jinghua Wang and Jianmin Jiang, "Unsupervised deep clustering via adaptive GMM modeling and optimization," **Neurocomputing**, vol. 433, pp. 199-211, 2021.
-* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Extract minimum positive and maximum negative features for imbalanced binary classification," **Pattern Recognition**, 45(3): 1136-1145, 2012.
-* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Orthogonal discriminant vector for face recognition across pose," **Pattern Recognition**, 45(12): 4069-4079, 2012.
-* Jinghua Wang, Qin Li, Jane You, Qijun Zhao, "Fast kernel Fisher discriminant analysis via approximating the kernel principal component analysis," **Neurocomputing**, 74(17): 3313-3322, 2011.
-* Jinghua Wang, Yong Xu, David Zhang, Jane You, "An efficient method for computing orthogonal discriminant vectors," **Neurocomputing**, 73(10-12): 2168-2176, 2010.
+* Jinghua Wang and Jianmin Jiang, "Learning Across Tasks for Zero-shot Domain Adaptation From a Single Source Domain", IEEE Transactions on Pattern Analysis and Machine Intelligence (<font color=CornflowerBlue>**TPAMI**</font>), 2021.
+* Jinghua Wang, Mingming Cheng, and Jianmin Jiang, “Domain Shift Preserving for Zero-shot Domain Adpatation”, IEEE Transactions on Image Processing (<font color=CornflowerBlue>**TIP**</font>), vol. 30, pp. 5505-5517, 2021
+* Jinghua Wang and Gang Wang, "Hierarchical Spatial Sum–Product Networks for Action Recognition in Still Images," IEEE Transactions on Circuits and Systems for Video Technology (<font color=CornflowerBlue>**TCSVT**</font>), vol. 28, no. 1, pp. 90-100, 2018.
+* Jinghua Wang and Jianmin Jiang, "SA-Net: A deep spectral analysis network for image clustering," (<font color=CornflowerBlue>**Neurocomputing**</font>), vol. 383, pp. 10-23, 2020.
+* Jinghua Wang and Jianmin Jiang, "Unsupervised deep clustering via adaptive GMM modeling and optimization," (<font color=CornflowerBlue>**Neurocomputing**</font>), vol. 433, pp. 199-211, 2021.
+* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Extract minimum positive and maximum negative features for imbalanced binary classification," (<font color=CornflowerBlue>**TPAMI**</font>)**Pattern Recognition**, 45(3): 1136-1145, 2012.
+* Jinghua Wang, Jane You, Qin Li, Yong Xu, "Orthogonal discriminant vector for face recognition across pose," (<font color=CornflowerBlue>**TPAMI**</font>)**Pattern Recognition**, 45(12): 4069-4079, 2012.
+* Jinghua Wang, Qin Li, Jane You, Qijun Zhao, "Fast kernel Fisher discriminant analysis via approximating the kernel principal component analysis," (<font color=CornflowerBlue>**TPAMI**</font>)**Neurocomputing**, 74(17): 3313-3322, 2011.
+* Jinghua Wang, Yong Xu, David Zhang, Jane You, "An efficient method for computing orthogonal discriminant vectors," (<font color=CornflowerBlue>**TPAMI**</font>)**Neurocomputing**, 73(10-12): 2168-2176, 2010.
 #* Jinghua Wang, Exploring Category Attention for Open Set Domain Adaptation. IEEE Access 9: 9154-9162 (2021)
-* Jinghua Wang, Peng Wang, Qin Li, Jane You, "Improvement of the kernel minimum squared error model for fast feature extraction," **Neural Comput. Appl.**, 23(1): 53-59, 2013.
-* Zizhu Fan, Jinghua Wang, Baogen Xu, Pengzhi Tang, "An efficient KPCA algorithm based on feature correlation evaluation," **Neural Comput. Appl.**, 24(7-8): 1795-1806, 2014.
-* Zizhu Fan, Jinghua Wang, Qi Zhu, Xiaozhao Fang, Jinrong Cui, Chunhua Li, "Local minimum squared error for face and handwritten character recognition," **J. Electronic Imaging**, 22(3): 033027, 2013.
-* Yong Xu, Qi Zhu, Jinghua Wang, "Breast cancer diagnosis based on a kernel orthogonal transform," **Neural Comput. Appl.**, 21(8): 1865-1870, 2012.
-* Jane You, Qin Li, Jinghua Wang, "On Hierarchical Content-Based Image Retrieval by Dynamic Indexing and Guided Search," **Int. J. Cogn. Informatics Nat. Intell.**, 4(4): 18-36, 2010.
+* Jinghua Wang, Peng Wang, Qin Li, Jane You, "Improvement of the kernel minimum squared error model for fast feature extraction," (<font color=CornflowerBlue>**TPAMI**</font>)**Neural Comput. Appl.**, 23(1): 53-59, 2013.
+* Zizhu Fan, Jinghua Wang, Baogen Xu, Pengzhi Tang, "An efficient KPCA algorithm based on feature correlation evaluation," (<font color=CornflowerBlue>**TPAMI**</font>)**Neural Comput. Appl.**, 24(7-8): 1795-1806, 2014.
+* Zizhu Fan, Jinghua Wang, Qi Zhu, Xiaozhao Fang, Jinrong Cui, Chunhua Li, "Local minimum squared error for face and handwritten character recognition," (<font color=CornflowerBlue>**TPAMI**</font>)**J. Electronic Imaging**, 22(3): 033027, 2013.
+* Yong Xu, Qi Zhu, Jinghua Wang, "Breast cancer diagnosis based on a kernel orthogonal transform," (<font color=CornflowerBlue>**TPAMI**</font>)**Neural Comput. Appl.**, 21(8): 1865-1870, 2012.
+* Jane You, Qin Li, Jinghua Wang, "On Hierarchical Content-Based Image Retrieval by Dynamic Indexing and Guided Search," (<font color=CornflowerBlue>**TPAMI**</font>)**Int. J. Cogn. Informatics Nat. Intell.**, 4(4): 18-36, 2010.
 
 ## Conference
 
