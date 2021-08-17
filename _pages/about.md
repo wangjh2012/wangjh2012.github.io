@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-<!--
+
 
 
 WANG Jinghua is currently a Research Assistant Professor with <a href="http://futuremedia.szu.edu.cn/index.aspx" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Research Institute for Future Media Computing</a>, Shenzhen University. He received his B.S. degree from <a href="https://www.sdu.edu.cn/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Shandong University</a>, his M.S. degree from <a href="http://cs.hitsz.edu.cn/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology (Shenzhen)</a>, and his Ph.D. degree from <a href="https://www.polyu.edu.hk/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">The Hong Kong Polytechnic University</a>. From 2014 to 2016, he was a research fellow with ROSE Lab, <a href="https://www.ntu.edu.sg/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Nanyang Technological University</a>, Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd.
@@ -22,7 +22,7 @@ Dr. Wang published at prestigious journals and prominent conferences, such as <a
 
 
 
-
+<!--
 
 
 
