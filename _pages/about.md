@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-
+<!--
 
 
 WANG Jinghua is currently a Research Assistant Professor with <a href="http://futuremedia.szu.edu.cn/index.aspx" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Research Institute for Future Media Computing</a>, Shenzhen University. He received his B.S. degree from <a href="https://www.sdu.edu.cn/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Shandong University</a>, his M.S. degree from <a href="http://cs.hitsz.edu.cn/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology (Shenzhen)</a>, and his Ph.D. degree from <a href="https://www.polyu.edu.hk/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">The Hong Kong Polytechnic University</a>. From 2014 to 2016, he was a research fellow with ROSE Lab, <a href="https://www.ntu.edu.sg/" style="color: Blue; text-decoration: underline;" target="_blank" rel="noopener noreferrer">Nanyang Technological University</a>, Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd.
@@ -32,11 +32,10 @@ Dr. Wang published at prestigious journals and prominent conferences, such as <a
 
 
 
-<!--
 WANG Jinghua is currently a Research Assistant Professor at [Research Institute for Future Media Computing](http://futuremedia.szu.edu.cn/index.aspx), Shenzhen University. He received his B.S. degree from [Shandong University](https://www.cs.sdu.edu.cn/), his M.S. degree from [Harbin Institute of Technology (Shenzhen)](http://cs.hitsz.edu.cn/), and his Ph.D. degree from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). From 2014 to 2016, he was a research fellow at ROSE Lab, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. From 2016 to 2017, he was a senior algorithm engineer with Huawei Technologies Co., Ltd.
 
 #Dr. Wang published at prestigious journals and prominent conferences, such as [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [IEEE International Conference on Computer Vision (ICCV)](https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision), and [European Conference on Computer Vision (ECCV)](https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision). His research interests include domain adaptation, zero-shot learning, unsupervised learning, computer vision, and pattern recognition.
--->
+
 
 A data-driven personal website
 ======
@@ -73,6 +72,8 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
+-->
+
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Please contact me by email: wang.jh@szu.edu.cn; wangjh2012@foxmail.com
