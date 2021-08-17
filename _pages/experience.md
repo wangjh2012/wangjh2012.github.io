@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Experience
 ======
 * B.S., School of Computer Science and Technology, Shandong University, 2001-2005
 * M.S., School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), 2007-2009
 * Ph.D, Department of Computing, The Hong Kong Polytechnic University, 2009-2013
 
-Work
+Work Experience
 ======
 * Research Fellow, Rose Lab, Nanyang Technological University, 2014-2016
 * Senior Alogrithm Engineer, 2012 Lab, Huawei, 2016-2017
