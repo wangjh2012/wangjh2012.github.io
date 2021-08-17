@@ -7,9 +7,11 @@ main:
   - title: "Publications"
     url: /myPublications/
 
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Funding"
+    url: /funding/
+        
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
