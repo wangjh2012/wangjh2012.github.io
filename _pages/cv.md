@@ -7,13 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 
 Work experience
 ======
-* Associate Professor, Harbin Institute of Technology, Shenzhen, 2012-Now
+* Associate Professor, Harbin Institute of Technology, Shenzhen, 2022-Now
 * Research Associate Professor, Shenzhen University, 2017-2022
+* Senior Algorithm Engineer, Huawei, 2016-2017
 * Research Fellow, Nanyang Technological University, 2014-2016
 
 Education
@@ -23,6 +24,8 @@ Education
 * B.S. in Computer Science and Technology, Shandong University, 2005
 
 <!--
+{% include base_path %}
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -65,10 +68,11 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
 
--->
+
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
