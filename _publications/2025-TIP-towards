@@ -6,7 +6,7 @@ permalink: /publication/2025-TIP-towards
 date: 2025-10-23
 venue: 'IEEE Transactions on Image Processing'
 paperurl: 'https://wangjh2012.github.io/files/papers/2025-TIP-towards.pdf'
-bibtexurl: 'https://wangjh2012.github.io/files/bib/bibtex1.bib'
+bibtexurl: 'https://wangjh2012.github.io/files/bib/2025-TIP-towards.bib'
 citation: 'Y. Liu, C. Huang, Y. Xu, X. Cao and J. Wang, "Toward Efficient Test Time Adaptation With Hierarchical Distribution Alignment," in IEEE Transactions on Image Processing, vol. 34, pp. 6852-6864, 2025'
 ---
 
