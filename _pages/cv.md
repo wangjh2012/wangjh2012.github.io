@@ -9,11 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
+| Degree       | Major                          | Institution                                  | Location       | Period    |
+|--------------|--------------------------------|----------------------------------------------|----------------|-----------|
+| Ph.D.        | Computing                      | The Hong Kong Polytechnic University          | Hong Kong      | 2009–2013 |
+| M.S.         | Computer Science and Technology | Harbin Institute of Technology Shenzhen Graduate School | Shenzhen, China | 2007–2009 |
+| B.S.         | Computer Science and Technology | Shandong University                           | Jinan, China   | 2001–2005 |
+
+## Professional Experience
+| Institution                  | Position                                      | Location       | Period    |
+|------------------------------|-----------------------------------------------|----------------|-----------|
+| Harbin Institute of Technology | Associate Professor, School of Computer Science and Technology | Shenzhen, China | 2022–Now  |
+| Shenzhen University          | Research Associate Professor, College of Computer and Software Engineering | Shenzhen, China | 2017–2022 |
+| Nanyang Technological University | Research Fellow, ROSE Lab                     | Singapore      | 2014–2016 |
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Department of Computing, The Hong Kong Polytechnic University, 2013
+* M.S. in Computer Science and Technology, Harbin Institute of Technology, 2009
+* B.S. in Computer Science and Technology, Shandong University, 2005
 
 Work experience
 ======
