@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo.jpg"
+  name             : "Jinghua WANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Computer Vision; Artificial Intelligence"
+  location         : "Shenzhen, China"
+  employer         : "Harbin Institute of Technology, Shenzhen"
+  uri              : # https://homepage.hit.edu.cn/wangjinghua?lang=zh
+  email            : "wangjh2012@foxmail.com" 
 
   # Academic websites
   academia         : # URL
