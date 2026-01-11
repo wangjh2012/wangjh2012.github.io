@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,20 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-| Degree       | Major                          | Institution                                  | Location       | Period    |
-|--------------|--------------------------------|----------------------------------------------|----------------|-----------|
-| Ph.D.        | Computing                      | The Hong Kong Polytechnic University          | Hong Kong      | 2009–2013 |
-| M.S.         | Computer Science and Technology | Harbin Institute of Technology Shenzhen Graduate School | Shenzhen, China | 2007–2009 |
-| B.S.         | Computer Science and Technology | Shandong University                           | Jinan, China   | 2001–2005 |
 
-## Professional Experience
-| Institution                  | Position                                      | Location       | Period    |
-|------------------------------|-----------------------------------------------|----------------|-----------|
-| Harbin Institute of Technology | Associate Professor, School of Computer Science and Technology | Shenzhen, China | 2022–Now  |
-| Shenzhen University          | Research Associate Professor, College of Computer and Software Engineering | Shenzhen, China | 2017–2022 |
-| Nanyang Technological University | Research Fellow, ROSE Lab                     | Singapore      | 2014–2016 |
-
+Work experience
+======
+* Associate Professor, Harbin Institute of Technology, Shenzhen, 2012-Now
+* Research Associate Professor, Shenzhen University, 2017-2022
+* Research Fellow, Nanyang Technological University, 2014-2016
 
 Education
 ======
@@ -30,6 +22,7 @@ Education
 * M.S. in Computer Science and Technology, Harbin Institute of Technology, 2009
 * B.S. in Computer Science and Technology, Shandong University, 2005
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -71,6 +64,8 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
+
+-->
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
