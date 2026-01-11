@@ -1,11 +1,51 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Dr. Wang is an Associate Professor in the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
+
+Dr. Wang has extensive research experience in the field of artificial intelligence, particularly focusing on computer vision, multimodal deep learning, transfer learning, and unsupervised learning. He has built a solid academic foundation through his studies at prestigious institutions. 
+He received his bachelor’s degree from Shandong University, his master’s degree from Harbin Institute of Technology under the supervision of [Prof. Yong Xu](https://scholar.google.com/citations?user=zOVgYQYAAAAJ&hl=en), and his Ph.D. from The Hong Kong Polytechnic University under the supervision of [Prof. YOU Jia Jane](https://www.polyu.edu.hk/risa/people/risa-people/prof-jia-jane-you/?sc_lang=en).
+
+Prior to joining HIT Shenzhen, he held key positions including:
+- Research Fellow at Nanyang Technological University (2014–2016)
+- Senior Algorithm Engineer at Huawei (2016–2017)
+- Research Associate Professor at Shenzhen University (2017–2021)
+
+Dr. Wang has authored over 60 high-quality technical papers in internationally renowned journals and conferences, including:
+- **Top Journals**: IEEE TPAMI, IEEE TIP, Pattern Recognition, IEEE TMM, IEEE TNNLS, IEEE TCSVT, IEEE TGRS
+- **Top Conferences**: CVPR, ICCV, ECCV, ICML, NeurIPS
+
+His research work has been widely recognized for its depth and innovation in addressing critical challenges in AI and computer vision.
+
+Apart from his academic research, Dr. Wang is dedicated to bridging the gap between theory and practice. Leveraging his cross-disciplinary background spanning academia and industry, his research outcomes have significant applications in real-world scenarios—ranging from intelligent image analysis to multimodal data understanding. 
+He brings a unique perspective to developing AI-driven solutions that are not only technically advanced but also practically impactful, contributing to the translation of cutting-edge research into tangible societal value.
+
+Dr. Wang's Curriculum Vitae is available for download here: [Wang Jinghua's Curriculum Vitae](/assets/WANG_Jinghua_CV.pdf).
+
+Email: <a href="mailto:wangjh2012@foxmail.com">wangjh2012@foxmail.com</a>; <a href="mailto:wangjinghua@hit.edu.cn">wangjinghua@hit.edu.cn</a>
+
+
+
+
+<!--
+
+Dr. Wang is an Associate Professor in the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
+
+Dr. Wang has extensive research experience in the field of artificial intelligence, particularly focusing on computer vision, multimodal deep learning, transfer learning, and unsupervised learning. He has built a solid academic foundation through his studies at prestigious institutions. He received his bachelor’s degree from Shandong University, his master’s degree from Harbin Institute of Technology under the supervision of [Prof. Yong Xu](https://scholar.google.com/citations?user=zOVgYQYAAAAJ&hl=en), and his Ph.D. from The Hong Kong Polytechnic University under the supervision of [Prof. YOU Jia Jane](https://www.polyu.edu.hk/risa/people/risa-people/prof-jia-jane-you/?sc_lang=en). Prior to joining HIT Shenzhen, he held key positions including Research Fellow at Nanyang Technological University (2014–2016), Senior Algorithm Engineer at Huawei (2016–2017), and Research Associate Professor at Shenzhen University (2017–2021). Dr. Wang has authored over 60 high-quality technical papers in internationally renowned journals and conferences, such as IEEE TPAMI, TIP, Pattern Recognition, TMM, TNNLS, TCSVT, TGRS, CVPR, ICCV, ECCV, ICML, and NeurIPS. His research work has been widely recognized for its depth and innovation in addressing critical challenges in AI and computer vision.
+
+Apart from his academic research, Dr. Wang is dedicated to bridging the gap between theory and practice. Leveraging his cross-disciplinary background spanning academia and industry, his research outcomes have significant applications in real-world scenarios—ranging from intelligent image analysis to multimodal data understanding. He brings a unique perspective to developing AI-driven solutions that are not only technically advanced but also practically impactful, contributing to the translation of cutting-edge research into tangible societal value.
+
+You can find my CV here: [Wang Jinghua's Curriculum Vitae](../assets/WANG_Jinghua_CV.pdf).
+
+Email: wangjh2012@foxmail.com; wangjinghua@hit.edu.cn
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -50,7 +90,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
-
+-->
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
