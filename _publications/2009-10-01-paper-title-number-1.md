@@ -1,5 +1,5 @@
 ---
-title: "Y. Liu, C. Huang, Y. Xu, X. Cao, \textbf{Jinghua Wang}, ``Towards Efficient Test-Time Adaptation with Hierarchical Distribution Alignment,'' \textit{IEEE Transactions on Image Processing}, 2025."
+title: "Towards Efficient Test-Time Adaptation with Hierarchical Distribution Alignment"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
