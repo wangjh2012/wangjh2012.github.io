@@ -23,7 +23,7 @@ repository               : "wangjh2012/wangjh2012.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   name             : "Jinghua WANG"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision; Artificial Intelligence"
