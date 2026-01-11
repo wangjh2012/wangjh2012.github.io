@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wang is an Associate Professor in the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China.
+Dr. Wang is an Associate Professor in the School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen, China. He also serves as an Associate Editor for two reputable academic publications: Pattern Recognition and the International Journal of Image and Graphics (IJIG), where he contributes to shaping the direction of cutting-edge research in his field. Beyond editorial roles, Dr. Wang has extensive experience as a reviewer for top-tier international conferences and journals, including conferences such as CVPR, ICCV, ECCV, ICML, NeurIPS, ICME, ACCV, BMVC, AAAI, IJCAI, and ACM MM, as well as journals like IEEE T-PAMI, IEEE T-IP, IEEE T-NNLS, IEEE T-CSVT, IEEE T-MM, Pattern Recognition, and Neurocomputing, reflecting his recognized expertise and commitment to academic peer review.
+
 
 Dr. Wang has extensive research experience in the field of artificial intelligence, particularly focusing on computer vision, multimodal deep learning, transfer learning, and unsupervised learning. He has built a solid academic foundation through his studies at prestigious institutions. 
 He received his bachelor’s degree from Shandong University, his master’s degree from Harbin Institute of Technology under the supervision of [Prof. Yong Xu](https://scholar.google.com/citations?user=zOVgYQYAAAAJ&hl=en), and his Ph.D. from The Hong Kong Polytechnic University under the supervision of [Prof. YOU Jia Jane](https://www.polyu.edu.hk/risa/people/risa-people/prof-jia-jane-you/?sc_lang=en).
